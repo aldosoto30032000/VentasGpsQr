@@ -1,0 +1,7 @@
+{
+  "name": "ProyectoVentasGPS",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
